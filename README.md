@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brahim EL HARCHE</h1>
 <h3 align="center">A passionate computer sciences and AI engineering student from Morocco</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.brahimelharche.me](https://www.brahimelharche.me)
+- 👨‍💻 All of my projects are available at [https://brahimelharche.vercel.app](https://brahimelharche.vercel.app/)
 
 - 💬 Ask me about **react js**
 
