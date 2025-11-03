@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://brahimelharche.vercel.app](https://brahimelharche.vercel.app/)
 
-- 💬 Ask me about **react js**
-
 - 📫 How to reach me **brahimelharche02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
